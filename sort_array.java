@@ -8,7 +8,7 @@ import java.util.Map.Entry;
 
 public class sort_array {
 	public static void main(String[] args){
-		int[] intArray = {1,1,1,2,2,3,4,4,4,4,4,5,6,7,8};
+		int[] intArray = {1,1,1,2,2,3,4,4,4,4,4,5,6,7,8};// Given array
 		ArrayList<Integer> listArr = new ArrayList<Integer>();
 		for(int i=0;i<intArray.length;i++)
 			listArr.add(intArray[i]);
