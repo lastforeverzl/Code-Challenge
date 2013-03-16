@@ -31,7 +31,7 @@ public class sort_array {
 			}
 		};
 		Collections.sort(sort, comparator);
-		System.out.println(sort);
+	//	System.out.println(sort);
 		Collections.reverse(sort);
 		Iterator<Entry<Integer, Integer>> iterator = sort.iterator();
 		while(iterator.hasNext()){
