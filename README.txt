@@ -4,7 +4,9 @@ Email: Lzhang20@stevens.edu
 
 Source File:
 1) TweetUrl.py
+    Used to retrieve the latest tweets according to the inputs.
 2) sort_array.java
+    Used to sort the array by the frequency of each element. 
 
 OS Version:
 Windows 8
